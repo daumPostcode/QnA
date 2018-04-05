@@ -7,7 +7,7 @@ Sample 코드와 상세 Reference는 [http://postcode.map.daum.net/guide](http:/
 
 ---
 
-## [업데이트 소식 바로가기](https://github.com/daumPostcode/QnA/blob/master/PATCHNOTE.md)
+## >>[업데이트 소식 바로가기](https://github.com/daumPostcode/QnA/blob/master/PATCHNOTE.md) (Click!!)
 
 업데이트 소식을 더 보기 편하시도록 페이지를 이동하였습니다. 업데이트와 관련된 사항은 위 링크된 페이지를 확인해 주세요.
 추가적인 업데이트의 자세한 사항은 **[가이드 페이지](http://postcode.map.daum.net/guide)** 를 참고해 주세요.
