@@ -1,6 +1,6 @@
 # Daum 우편번호 서비스
 
-[Daum 우편번호 서비스](http://postcode.map.daum.net/guide)는 웹사이트에서 도로명 주소와 우편번호를 검색할 수 있는 **Javascript API**입니다.  
+[Daum 우편번호 서비스](http://postcode.map.daum.net/guide)는 웹사이트에서 도로명 주소와 우편번호(기초구역번호)를 검색할 수 있는 **Javascript API**입니다.  
 Sample 코드와 상세 Reference는 [http://postcode.map.daum.net/guide](http://postcode.map.daum.net/guide) 에서 확인할 수 있습니다.  
 
 문의 사항은 먼저 아래 FAQ를 확인해주시고, [Issue로 등록해주시면 됩니다.](https://github.com/daumPostcode/QnA/issues)
@@ -20,7 +20,8 @@ Sample 코드와 상세 Reference는 [http://postcode.map.daum.net/guide](http:/
 
 ### 1. 주소가 없습니다 / 검색되지 않습니다.
 
-우선 [행정자치부 도로명주소 검색시스템](http://juso.go.kr)에서 검색이 되는지 확인해 주세요. 만약 행정자치부 도로명주소 검색시스템에서 검색이 되지 않는다면 직접 등록 요청을 하셔야 합니다. 
+다음 우편번호 서비스 API는 **도로명 주소만 검색 가능**합니다 (자세한건 아래 추가사항 참고)
+그렇기 때문에 주소가 검색이 안된다면 우선 [행정자치부 도로명주소 검색시스템](http://juso.go.kr)에서 검색이 되는지 확인해 주세요. 만약 행정자치부 도로명주소 검색시스템에서 검색이 되지 않는다면 직접 등록 요청을 하셔야 합니다. 
  
 1. 행정자치부 도로명 주소 검색시스템 접속  
 2. 상단 메뉴 중 "고객지원" -> "도로명주소 도움센터(Q&A)" 클릭  
