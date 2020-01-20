@@ -36,11 +36,11 @@ Sample 코드와 상세 Reference는 [http://postcode.map.daum.net/guide](http:/
 대부분의 모든 주소를 1일 업데이트 하지만, 몇몇 업데이트가 불가능한 주소가 있습니다.
 [행정자치부 도로명주소 검색시스템](http://juso.go.kr)에서 검색은 되나, 저희 우편번호시스템에서는 검색이 안되는 경우가 있는데요.
 이는 국가보안시설(주요 기관, 발전소 등)로 지정된 곳은 저희에게 데이터를 내려주지 않아 현재 업데이트가 불가능합니다.
-해당 주소들은 도로명주소 검색시스템에서 검색시 아래와 같이 지도 마커가 없습니다.
-![noshow](https://user-images.githubusercontent.com/20675065/34700938-e95ee9bc-f528-11e7-9bd6-9f3aec4c6142.png)
+해당 주소들은 도로명주소 검색시스템에서 검색시 아래와 같이 **돋보기 아이콘**이 없습니다.
+![w83](https://user-images.githubusercontent.com/20675065/72701275-17df5e00-3b92-11ea-9907-58f308352452.png)
 
-이외 지도 마커가 있는 주소들은 저희 시스템에서 모두 검색이 됩니다.
-![show](https://user-images.githubusercontent.com/20675065/34700942-ec950eae-f528-11e7-9a91-db004a296714.png)
+이외 **돋보기 아이콘**이 있는 주소들은 저희 시스템에서 모두 검색이 됩니다.
+![p235](https://user-images.githubusercontent.com/20675065/72701286-2594e380-3b92-11ea-9fc8-25d1699fb107.png)
 
 이점 API 이용에 참고하시기 바랍니다. 
 
