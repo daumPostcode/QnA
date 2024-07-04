@@ -68,7 +68,7 @@ Sample 코드와 상세 Reference는 [http://postcode.map.daum.net/guide](http:/
 단, 기본 webview의 경우 우편번호서비스의 open메소드를 이용한 팝업방식 보다는 embed메소드를 이용한 레이어 방식을 사용하시길 권해드립니다.  
 이유는 기본적인 webview에서 open메소드 사용시, 팝업이 뜨기보다 기존페이지에서 우편번호서비스 페이지로 이동이 되어 버리기 때문에, 데이터 전달이 되지 않습니다. 반드시 open메소드를 사용하시고자 하실때에는 각 플랫폼의 webview에서 window.open에 대응할 수 있도록 webview를 개선하여 사용하시기 바랍니다.
 
-### 11. requireJS를 사용할 수 있나요?
+### 11. typescript나 node 모듈로 이용할 수 있나요?
 아뇨. 현재 대응하고 있지 않습니다.
 
 ### 12. 팝업창에서 검색 후 결과를 클릭해도 반응이 없습니다.
