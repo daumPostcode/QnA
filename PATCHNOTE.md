@@ -9,6 +9,7 @@
 
   - B 189, Sejong-daero, Jongno-gu, Seoul, Korea
   => B189 Sejong-daero, Jongno-gu, Seoul, Republic of Korea
+
 위와같이. ‘산’주소와 ‘지하’ 주소의 경우 공백없이 표기되며, 'Korea'가 'Republic of korea'로 변경되었으니 참고 바랍니다. (추가로 추후 추가될 '공중', '수상'도 같은 패턴으로 적용됩니다)
 
 ### 2021. 11. 3
