@@ -1,6 +1,16 @@
 
 ## 업데이트 소식
 
+### 2024. 11. 12
+1. 레이어모드에서 생성자 옵션에 minWidth 옵션 추가, 기존의 300px로 고정된 값이 아닌 0과 300사이로 조절 가능합니다. (기본값 200) 자세한 사항은 [공식가이드페이지](http://postcode.map.daum.net/guide)를 참고 부탁드립니다.
+2. 영문주소 표기법 변경
+  - San99, Dancheon-ri, Dosan-myeon, Andong-si, Gyeongsangbuk-do, Korea 
+  => San99 Dancheon-ri, Dosan-myeon, Andong-si, Gyeongsangbuk-do, Republic of Korea
+
+  - B 189, Sejong-daero, Jongno-gu, Seoul, Korea
+  => B189 Sejong-daero, Jongno-gu, Seoul, Republic of Korea
+위와같이. ‘산’주소와 ‘지하’ 주소의 경우 공백없이 표기되며, 'Korea'가 'Republic of korea'로 변경되었으니 참고 바랍니다. (추가로 추후 추가될 '공중', '수상'도 같은 패턴으로 적용됩니다)
+
 ### 2021. 11. 3
 1. autoMapping -> autoMappingRoad, autoMappingJibun 으로 연관주소 타입에 따라 각각 적용될 수 있도록 변경되었습니다. 기본값은 true입니다.
 
